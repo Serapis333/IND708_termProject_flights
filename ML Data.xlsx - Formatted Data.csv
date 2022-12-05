@@ -1,0 +1,185 @@
+Date,Description,Intervention type,Direct Flight Reduction ,new_cases,new_deaths,total_deaths,Domestic Significant,International Significant,Transborder Significant
+2020-01-29,Travel advisory warning against non-essential travel to China issued,Restrictions,1,0,0,0,0,1,0
+2020-02-29,Travel advisory warning against all travel to the cities of Daegu and Cheongdo issued,Restrictions,1,5,0,0,0,0,0
+2020-03-02,Travel advisory warning against all non-essential travel to affected regions of Italy issued,Restrictions,1,7,0,0,0,0,0
+2020-03-06,Travel advisory warning against all travel to Iran issued,Restrictions,1,19,0,0,0,0,0
+2020-03-09,Travel advisory warning against all cruise ship travel issued,Restrictions,0,24,1,1,1,1,1
+2020-03-10,Recommendation for the adoption of work-from-home policies issued,Work from home,0,21,0,1,1,1,1
+2020-03-11,Guidance on self-isolation published,Self-isolation,0,63,0,1,1,1,1
+2020-03-13,Cruise ship season postponed,Restrictions,0,97,0,1,1,1,1
+2020-03-14,Travel advisory warning against all non-essential travel outside Canada issued,Restrictions,1,67,0,1,1,1,1
+2020-03-18,Travel restrictions on the entry of all foreign nationals (except from the United States) announced,Restrictions,1,243,5,11,1,1,1
+2020-03-19,Exemptions under the Controlled Drugs and Substances Act issued,Change in practice,0,252,1,12,1,1,1
+2020-03-21,Travel restrictions on the entry of foreign nationals from the United States announced,Restrictions,1,503,3,18,1,1,1
+2020-03-23,State of emergency declared,State of emergency,1,646,7,29,0,0,0
+2020-03-24,Mandatory 14-day self-isolation for those returning from international travel announced,Self-isolation,1,699,5,34,0,0,0
+2020-03-26,Guidance on use of non-medical masks published,Masks,0,941,12,59,0,0,0
+2020-03-28,Guidance to optimize the use of masks and respirators published,Safety guidelines,0,930,17,83,0,0,0
+2020-03-30,New domestic transportation COVID-19 risk mitigation measures announced,Restrictions,1,1232,19,117,1,1,1
+2020-04-03,Deployment of Canadian Rangers to Inuit communities in northern Quebec announced,Supply management,0,1332,53,277,1,1,1
+2020-04-03,Deployment of Canadian Ranger Patrol in 27 Quebec communities announced,Supply management,0,1332,53,277,1,1,1
+2020-04-05,"Deployment of Canadian Rangers to communities in Saskatchewan, northern Ontario, B.C., Yukon, Northwest Territories announced",Supply management,0,1189,75,435,1,1,1
+2020-04-06,Restrictions on commercial marine activity announced,Restrictions,0,1501,68,503,1,1,1
+2020-04-07,Recommendation for the use of face masks issued,Masks,1,1388,78,581,1,1,1
+2020-04-15,Requirement of a quarantine plan for all returning international travellers prior to entry announced,Self-isolation,1,1747,154,1515,1,1,1
+2020-04-15,Guidance for health workers in acute health care settings published,Safety guidelines,0,1747,154,1515,1,1,1
+2020-04-17,Mandatory use of face coverings for all air and rail passengers announced,Masks,1,2126,147,1798,1,1,1
+2020-04-20,Deployment of Canadian Armed Forces to support long-term care facilities in Quebec announced,Supply management,0,1712,144,2251,1,1,1
+2020-04-22,Restriction on international students working beyond 20 hours per week in essential service lifted,Supply management,0,1846,164,2576,1,1,1
+2020-04-25,Directive for health care providers not to prescribe unproven therapies issued,Change in practice,0,1582,181,3112,1,1,1
+2020-04-28,Deployment of Canadian Armed Forces to support long-term care facilities in Ontario announced,Supply management,0,1523,207,3635,1,1,1
+2020-05-03,Investment of $240.5 million in virtual care and mental health tools announced,Telemedicine/virtual care,0,1259,146,4558,1,0,1
+2020-05-10,"Essential health service personnel deployed to remote First Nations communities in Ontario, Manitoba and Alberta",Supply management,0,1038,128,5704,1,1,1
+2020-05-12,Use of 1st COVID-19 serological test authorized,Other,0,1117,143,5979,1,1,1
+2020-06-04,Mandatory use of face coverings for transportation sector workers announced,Masks,1,582,65,8047,1,0,1
+2020-06-09,Travel restrictions on foreign nationals with immediate family in Canada relaxed,Restrictions,1,434,36,8275,0,1,0
+2020-06-12,Maintenance of certification requirements waived for physician assistants,Licence reinstatement/reclassification,0,461,30,8367,0,1,0
+2020-06-18,Launch of national contact tracing app announced,Contact tracing,0,406,10,8495,0,1,1
+2020-06-30,Phase 1 of mandatory air traveller screening announced,Other,1,334,15,8722,0,1,0
+2020-07-01,"Restriction on passenger vessels (except cruise ships) operating in inland rivers/lakes in N.W.T., Nun. and Y.T. lifted",Restrictions,0,222,10,8732,0,1,0
+2020-07-21,Creation of Essential Services Contingency Reserve that complements existing personal protective equipment support for front-line health care workers announced,Safety guidelines,0,460,5,8909,1,0,1
+2020-07-31,Restrictions and entry conditions for travellers transiting through Canada to Alaska announced,Restrictions,0,452,6,8981,0,0,0
+2020-08-14,"Canada’s Flight Plan for Navigating COVID-19, aimed at reducing risks of COVID-19 while travelling by aircraft, announced",Other,1,412,4,9048,0,0,0
+2020-08-26,$112 million in funding announced to support a safe return to elementary and secondary school on reserves,Education,0,484,4,9118,1,0,0
+2020-08-26,$2 billion in funding announced for provinces and territories through the Safe Return To Class Fund,Education,0,484,4,9118,1,0,0
+2020-09-11,Consistent approach for air carriers to collect and share passenger information for COVID-19 tracing announced,Other,1,815,0,9181,1,1,1
+2020-09-23,Final phase of mandatory airport screening implemented,Other,1,1425,9,9267,1,0,0
+2020-09-25,Signed an agreement to buy 20 million doses of the AstraZeneca COVID-19 vaccine,Purchasing and allocation,0,1794,7,9283,1,0,0
+2020-09-29,"Agreement to purchase 7.9 million rapid tests and 3,800 analysers from Abbott Rapid Diagnostics signed",Other,0,1932,14,9325,1,1,1
+2020-10-06,Agreement to purchase 20.5 million rapid tests from Abbott Rapid Diagnostics signed,Other,0,2159,22,9566,0,1,1
+2020-10-08,Travel restrictions for certain extended family members of Canadian citizens and Canadian permanent residents eased,Restrictions,1,2402,18,9603,0,1,1
+2020-10-20,Travel restrictions for international students attending institutions with a COVID-19 readiness plan eased,Restrictions,1,2477,17,9855,1,1,1
+2020-10-30,COVID Alert app updated to send notifications based on a more precise timeline,Contact tracing,0,3427,45,10185,0,0,0
+2020-10-31,Residents of border communities who need to cross the border to access necessities exempted from the mandatory 14-day quarantine rule,Self-isolation,0,2322,41,10226,0,0,0
+2020-11-02,Program launched to allow international travellers to leave quarantine provided they test negative upon arrival and retest 6 to 7 days after,Self-isolation,1,3304,29,10292,1,1,0
+2020-11-03,"Guidance on non-medical masks updated; recommend wearing a 3-layer mask with a middle, filter layer",Masks,0,4721,57,10349,1,1,0
+2020-11-06,Funding for First Nations to adapt community infrastructure for infection control measures announced,Other,0,4809,56,10490,1,1,0
+2020-11-10,"Agreement to purchase 7.6 million rapid tests and 2,172 analysers from Benton, Dickson and Company signed",Other,0,4641,62,10709,1,0,0
+2020-11-10,$61.4 million in pandemic funding for Man. First Nations Provincial Coordination Response Team and First Nation organizations announced,Supply management,0,4641,62,10709,1,0,0
+2020-11-20,"Funding for Indigenous communities and organizations in Man., Alta. and Sask. for infection control measures announced",Other,0,5073,65,11411,0,0,0
+2020-11-21,Requirements for travellers to submit information pre- and post-arrival to Canada via ArriveCAN app or a toll-free number mandated,Self-isolation,1,4829,68,11479,0,0,0
+2020-11-25,"Funding for the Government of Nunavut, Inuit communities and Inuit organizations for infection control measures announced",Other,0,5645,93,11798,1,1,1
+2020-12-01,Alberta Indigenous Virtual Care Clinic to deliver virtual health services launched,Telemedicine/virtual care,0,5800,77,12300,0,1,0
+2020-12-04,"$23.2 million in funding to develop and implement an accelerated program to train 4,000 new personal support worker interns announced",Supply management,0,6823,96,12594,0,1,0
+2020-12-07,"Agreement with Moderna to buy 20 million doses of its COVID-19 vaccine signed, bringing the total to 40 million doses",Purchasing and allocation,0,7815,125,12878,1,0,0
+2020-12-09,Pfizer-BioNTech COVID-19 vaccine for use in people 16 years of age and older authorized,Regulatory approval,0,6364,110,13084,1,0,0
+2020-12-10,COVID Alert app updated,Contact tracing,0,6564,123,13207,1,0,0
+2020-12-18,Priority populations for vaccination in accordance with National Advisory Committee on Immunization recommendations released,Population to be vaccinated,0,7194,122,14166,0,1,1
+2020-12-20,Flights from the United Kingdom suspended,Restrictions,1,6069,89,14357,1,1,0
+2020-12-23,Moderna COVID-19 vaccine authorized for use in people 18 years of age and older,Regulatory approval,0,6689,145,14733,1,1,0
+2020-12-24,Enhanced screening for travellers who have been in the United Kingdom or South Africa in the past 14 days announced,Restrictions,0,6353,144,14877,1,1,0
+2021-01-07,Requirement for mandatory negative COVID-19 test result for air passengers entering Canada announced,Restrictions,0,9231,183,16689,1,0,1
+2021-01-08,"Vaccination of about 600 older, medically vulnerable federal inmates announced",Phase changes and milestones,0,8890,130,16819,1,0,1
+2021-01-08,Interim guidance for infection prevention and control in acute settings released,Safety guidelines,0,8890,130,16819,1,0,1
+2021-01-12,"Agreement with Pfizer to buy 20 million doses of its COVID-19 vaccine signed, bringing the total to 76 million doses",Purchasing and allocation,0,6803,148,17338,0,1,1
+2021-01-12,"Information on vaccine handling, storage and administration released",Change in practice,0,6803,148,17338,0,1,1
+2021-01-13,Funding for the Indigenous Community Support Fund for community-led COVID-19 responses announced,Other,0,7091,181,17519,0,1,1
+2021-01-25,Members of the House of Commons may participate in House proceedings either in person or by video conference,Work from home,0,5352,126,19237,1,1,0
+2021-01-31,Suspended all flights to and from Mexico and Caribbean countries,Restrictions,1,3203,90,20033,0,0,0
+2021-02-01,"Mask mandate for any person in the House of Commons announced (e.g., members and their staff, political research office staff, etc.)",Masks,0,4011,104,20137,0,0,0
+2021-02-01,"Announced that all international passenger flights must land either at the Vancouver, Calgary, Toronto or Montréal airports",Restrictions,1,4011,104,20137,0,0,0
+2021-02-04,Prohibition on pleasure craft vessels in all Canadian waters extended,Restrictions,0,3929,158,20514,0,0,0
+2021-02-11,"Released vaccine toolkit for health care professionals, including guidance for managing vaccination clinics and administering vaccines",Safety guidelines,0,3376,84,21089,1,0,0
+2021-02-12,"Announced accelerated delivery schedule for Pfizer-BioNTech: 2.8 million doses between Apr. & Jun., 6.2 million doses between Jul. & Sept.",Purchasing and allocation,0,3310,74,21163,1,0,0
+2021-02-15,Land travellers required to provide negative COVID test result from the US within 3 days/positive result within 14&90 days prior to arrival,Restrictions,0,1968,31,21325,1,0,1
+2021-02-22,"Travellers required to submit travel, contact information and quarantine plan via ArriveCAN before crossing border/boarding a flight",Restrictions,1,3574,49,21724,0,1,1
+2021-02-22,3-night stay at own cost in government-authorized hotel required for air travellers while awaiting results of arrival test (with exceptions),Self-isolation,1,3574,49,21724,0,1,1
+2021-02-26,Authorized the AstraZeneca COVID-19 vaccine for use in people 18 years of age and older,Regulatory approval,0,3115,50,21916,0,1,1
+2021-02-26,Authorized the COVIDSHIELD (manufactured by Serum Institute of India) vaccine for use in people 18 years of age and older,Regulatory approval,0,3115,50,21916,0,1,1
+2021-02-26,Announced that 2 million doses of the AstraZeneca COVID-19 vaccine have been secured,Purchasing and allocation,0,3115,50,21916,0,1,1
+2021-03-01,Approved revised recommendations to defer 2nd dose of COVID-19 vaccines,Implementation plans and frameworks,0,3512,23,22018,0,1,1
+2021-03-05,Authorized the Johnson & Johnson (Janssen Inc.) vaccine for use in people 18 years of age and older,Regulatory approval,0,3315,41,22193,0,1,1
+2021-03-25,Canadian Armed Forces deployed to accelerate the pace of immunization in northern Manitoba communities,Supply management,0,5167,31,22791,1,0,1
+2021-03-26,Additional terms and conditions issued for the authorization of the AstraZeneca and Verity Pharmaceuticals–Serum Institute of India vaccines,Regulatory approval,0,5611,36,22827,1,0,1
+2021-03-29,Recommended immediate pause in the use of the AstraZeneca vaccine in Canada for those under 55,Regulatory approval,0,6609,20,22901,1,0,0
+2021-04-01,$1.5 million to be funded for a Safe Voluntary Isolation Site for Thunder Bay and surrounding communities,Self-isolation,0,6354,43,23003,1,0,0
+2021-04-01,$17.8 million to be funded for a Safe Voluntary Isolation Site for temporary foreign agri-workers in Windsor-Essex,Other,0,6354,43,23003,1,0,0
+2021-04-01,Announced $70 million funding to the Canadian Red Cross to build and maintain capacity,Supply management,0,6354,43,23003,1,0,0
+2021-04-12,Announced investment in StaySafe rapid screening program in Waterloo region; 3 COVID-19 rapid screening buses will provide free testing for various workplaces,Other,0,10371,41,23357,0,0,1
+2021-04-15,"$336,000 to be funded for a Safe Voluntary Isolation Site in Sault Ste. Marie, Ontario",Self-isolation,0,9756,55,23501,0,0,1
+2021-04-16,$11.6 million to be funded for a Safe Voluntary Isolation site in Saskatchewan,Self-isolation,0,8268,41,23542,0,0,1
+2021-04-22,Direct flights from Pakistan/India suspended; indirect flights must obtain negative test from last country travelled through,Restrictions,1,9033,59,23823,1,1,1
+2021-04-23,Agreement signed with Pfizer for 35 million booster doses for 2022 and 30 million in 2023; see scan for details,Purchasing and allocation,0,8226,61,23884,1,1,1
+2021-04-26,Canadian Armed Forces and Canadian Red Cross deployed to augment or relieve staff within medical care facilities in Ontario,Supply management,0,8646,59,24025,1,0,0
+2021-04-28,60 Canadian Armed Forces members deployed to testing centres in Nova Scotia to assist as cases rise,Supply management,0,8269,52,24118,1,0,0
+2021-05-03,Recommended the Janssen COVID-19 vaccine be offered to individuals 30 and older without contraindications,Regulatory approval,0,8315,41,24342,0,0,1
+2021-05-05,Authorized the use of the Pfizer-BioNTech COVID-19 vaccine in children 12 to 15,Regulatory approval,0,7719,54,24451,0,0,1
+2021-05-10,Canadian Armed Forces & Rangers activated in Moose Cree First Nation & Neskantaga First Nation to assist with COVID-19 response efforts,Supply management,0,6941,56,24683,0,1,0
+2021-05-12,$2.3 million funded to help internationally trained nurses get certified and find jobs,Supply management,0,6614,54,24769,0,1,0
+2021-05-24,Members of the Canadian Armed Forces and Canadian Red Cross deployed to Manitoba to provide relief staff within medical care facilities,Supply management,0,2373,30,25262,1,0,1
+2021-05-26,$4.2 million granted to operate safe voluntary isolation sites in N.S.,Self-isolation,0,2851,37,25362,1,0,1
+2021-05-29,Extension approved to 2 lots of the AstraZeneca vaccine expiry dates by 30 days to allow P/Ts to use up their existing inventory,Regulatory approval,0,2348,38,25479,1,0,1
+2021-06-01,Announced Canadian Red Cross support to Nunavut for contact tracing in response to a COVID-19 variant outbreak,Supply management,0,1830,19,25567,0,1,1
+2021-06-02,Guidance on mixed vaccine procedures updated; those who got 1st dose of viral vector vaccine (e.g. AstraZeneca) can get 2nd dose of either viral vector or mRNA,Regulatory approval,0,2196,46,25613,0,1,1
+2021-06-10,"Funded $731,810 to the Simcoe Muskoka District Health Unit to operate safe voluntary isolation sites in Barrie, Ont., and surrounding communities",Self-isolation,0,1438,30,25874,0,1,0
+2021-06-11,"Announced $9.3 million to support distress centres across Canada during the pandemic, including to support recruiting and training",Supply management,0,1349,13,25887,0,1,0
+2021-06-21,Any foreign national who holds a valid COPR now allowed to travel to Canada (follow requirement checklists for entering the country),Restrictions,1,684,10,26087,0,0,0
+2021-06-21,"Temporary travel restrictions for all non-US travellers extended, unless their travel is for non-discretionary reasons",Restrictions,1,684,10,26087,0,0,0
+2021-06-21,"Temporary travel restrictions for all US travellers extended, unless their travel is for non-discretionary reasons",Restrictions,1,684,10,26087,0,0,0
+2021-06-25,"Released guideline for safety measures needed (e.g. masks, distancing) depending on activity, setting and vaccination status",Vaccination status,1,638,5,26198,0,0,0
+2021-07-05,"Travel restrictions for fully vaccinated travellers who fall under the eligible to enter"" categories eased; travellers required to disclose vaccination status in the ArriveCAN app""",Restrictions,1,573,8,26369,0,0,0
+2021-07-05,"Travel restrictions for fully vaccinated eligible to enter"" travellers eased; no longer required to quarantine or take COVID-19 test on day 8""",Self-isolation,1,573,8,26369,0,0,0
+2021-07-10,Announced support by sending health and social services professionals to assist in COVID-19 efforts,Supply management,0,347,9,26429,0,0,0
+2021-07-27,Received more than 66 million doses of COVID-19 vaccine—enough to fully vaccinate every eligible Canadian—2 months ahead of schedule,Phase changes and milestones,0,594,8,26561,0,1,0
+2021-08-06,Announced $15 million funding for N.L. long-term care sector to enhance infection prevention and control measures including workforce capacity,Supply management,0,1625,17,26655,0,0,0
+2021-08-09,Extended the Notice to Airmen that restricts all direct commercial and private passenger flights to Canada from India,Restrictions,1,2857,9,26679,1,0,1
+2021-08-12,Announced $6 million funding for P.E.I.'s long-term care sector toward staff training and infection control measures,Supply management,0,2162,4,26693,1,0,1
+2021-08-12,Announced $3.1 million funding for N.W.T. long-term care sector to support initiatives such as purchase of mobile equipment and hiring staff,Supply management,0,2162,4,26693,1,0,1
+2021-08-13,Announced funding for safe voluntary isolation sites in Ontario to help people who have COVID-19 access safe isolation accommodations,Self-isolation,0,2438,6,26699,1,0,1
+2021-08-13,"Entered agreement with Moderna for additional 40 to 65 million COVID-19 vaccine doses for 2022 and 2023, with option to extend into 2024",Purchasing and allocation,0,2438,6,26699,1,0,1
+2021-08-13,Announced the requirement of vaccination for workers across the federal public service,Vaccination status,0,2438,6,26699,1,0,1
+2021-08-13,Announced $3 million funding for Y.T. long-term care sector to support hiring new staff & ensuring adequate supply of personal protective equipment,Supply management,0,2438,6,26699,1,0,1
+2021-08-14,Announced $134 million funding for B.C.'s long-term care sector to enhance infection prevention and control measures and workforce capacity,Supply management,0,1072,3,26702,1,0,1
+2021-08-24,"Resumed service at various small marine reporting sites, airports of entry & ferry terminals; openings vary by region; new sites opening Sept. 6 & 19",Restrictions,0,2491,34,26849,1,1,0
+2021-08-29,Notice to Airmen issued restricting all direct commercial and private passenger flights to Canada from Morocco,Restrictions,1,1434,3,26902,1,0,1
+2021-08-31,Announced that Ivermectin is not an authorized treatment for COVID-19 and warned that the drug can cause serious health issues,Change in practice,0,3192,14,26933,1,0,1
+2021-09-07,Fully vaccinated foreign nationals are eligible to enter Canada for non-essential reasons,Restrictions,1,9072,43,27068,1,0,1
+2021-09-10,Updated advice for immunocompromised individuals to include an additional dose following the 1-or 2-dose series,Regulatory approval,0,4646,36,27171,1,0,1
+2021-09-17,"Authorized new names for the Pfizer-BioNTech, Moderna and AstraZeneca COVID-19 vaccines",Regulatory approval,0,5050,45,27371,0,0,0
+2021-09-21,Extended the Notice to Airmen to continue restrictions for all direct commercial and private passenger flights to Canada from India,Restrictions,1,3871,54,27489,0,0,1
+2021-10-04,Announced that the Canadian Armed Forces and the Canadian Red Cross are sending critical care nurses to Alta. to assist,Supply management,0,7913,49,28003,1,1,1
+2021-10-06,Those in federal workforce and federally regulated transportation sectors required to be vaccinated against COVID-19,Vaccination status,0,3845,62,28113,1,1,1
+2021-10-16,Extended the Red Cross support being sent to Ont. long-term care and retirement homes,Supply management,0,1598,14,28483,1,1,0
+2021-10-19,"Announced Red Cross support for the N.W.T. to assist in infection prevention and control, contact tracing and COVID-19 testing",Supply management,0,2303,39,28604,1,1,0
+2021-10-21,Announced a standardization of COVID-19 proof of vaccination for all provinces and territories,Vaccination status,0,2870,23,28668,1,1,0
+2021-10-29,Announced lifting of NOTAM that restricted direct flights to Morocco; travellers must show proof of vaccination or a negative COVID-19 test,Restrictions,1,2534,24,28953,1,0,0
+2021-10-29,Announced interim guidance on the use of boosters for people age 18 and at least 6 months after receipt of a primary COVID-19 vaccine,Regulatory approval,0,2534,24,28953,1,0,0
+2021-11-09,Authorized the use of the Pfizer-BioNTech vaccine as a booster shot,Regulatory approval,0,2505,24,29218,1,1,0
+2021-11-12,Authorized the use of the Moderna Spikevax COVID-19 vaccine as a booster shot,Regulatory approval,0,3828,43,29310,1,1,0
+2021-11-15,Announced Canadian Armed Forces Rangers to support vaccination campaign in remote communities in northern Ont.,Supply management,0,4026,47,29385,0,0,1
+2021-11-19,Authorized the Pfizer-BioNTech vaccine for children 5 to 11 years of age,Regulatory approval,0,2755,19,29482,0,0,1
+2021-11-26,Announced funding for COVID-19 safe voluntary isolation sites in B.C.,Self-isolation,0,3025,18,29619,0,1,0
+2021-11-26,Enhanced border measures for travel from southern Africa: Canadian citizens are subject to enhanced testing and quarantine on return,Restrictions,1,3025,18,29619,0,1,0
+2021-11-26,Announced that all travellers coming from the southern Africa region are required to complete a 14-day quarantine,Self-isolation,1,3025,18,29619,0,1,0
+2021-11-30,Announced the opening of additional airports to receive international passengers,Restrictions,1,2618,17,29688,0,1,0
+2021-11-30,Announced the expansion of accepted vaccines for the purpose of entry into Canada; travel within 72 hours does not require a COVID-19 test,Restrictions,1,2618,17,29688,0,1,0
+2021-12-03,Announced an agreement between Merck and Pfizer for access to their COVID-19 oral antiviral treatments,Treatment,0,3636,20,29758,0,1,0
+2021-12-07,Announced that all employees in federally regulated industries are required to be vaccinated,Vaccination status,0,3255,27,29828,1,0,1
+2021-12-16,Announced agreement where Que. to receive more than $28 million to expand its virtual health care services,Telemedicine/virtual care,0,7923,18,30013,1,1,1
+2021-12-17,Amended Canada's Criminal Code to enhance protection of health care workers; offenders punishable for up to 10 years imprisonment,Safety guidelines,0,10018,20,30033,1,1,1
+2021-12-18,"Lifted measures for return travel from Botswana, Egypt, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe",Restrictions,1,8304,8,30041,1,1,1
+2021-12-20,Announced the procurement of 1.136 million doses of the Pfizer-BioNTech pediatric vaccine,Purchasing and allocation,0,15450,18,30064,1,1,0
+2021-12-21,Reinstated the requirement for a pre-arrival negative PCR test for all travellers arriving in Canada from a trip of any duration,Restrictions,0,14141,22,30086,1,1,0
+2021-12-30,Announced funding for COVID-19 safe voluntary isolation sites in Man.,Self-isolation,0,42954,27,30281,1,1,0
+2022-01-10,Announced that up to 24 Canadian Red Cross personnel will support N.S.'s COVID-19 immunization program,Supply management,0,58461,96,30861,1,0,1
+2022-01-15,Announced groups who are currently exempt from entry requirements will only be allowed to enter the country if they are fully vaccinated,Restrictions,1,18147,141,31465,1,0,1
+2022-01-15,"Announced that unvaccinated or partially vaccinated foreign national truck drivers, coming from the US by land, will not be allowed entry",Vaccination status,0,18147,141,31465,1,0,1
+2022-01-17,Authorized the use of PAXLOVID for patients with mild to moderate COVID-19 at high risk of developing serious diseases,Treatment,0,41407,145,31676,1,1,1
+2022-01-28,Removed pre-departure test for travellers coming to Canada on direct or indirect flights from India or Morocco,Restrictions,1,16539,155,33523,0,1,1
+2022-01-28,Recommends children 5 to 11 receive a complete 2-dose primary series of Pfizer pediatric vaccine; for 12 to 17 a primary series of vaccines,Regulatory approval,0,16539,155,33523,0,1,1
+2022-01-31,"Introduced Bill C-10, to provide Health Canada with authority to purchase and distribute up to $2.5 billion worth of COVID-19 rapid tests",Other,0,21281,148,33870,0,1,1
+2022-01-31,Ended the temporary testing exemptions for residents and essential workers of B.C. who travel to the US for essential food and supplies,Restrictions,0,21281,148,33870,0,1,1
+2022-02-03,Funding announced for COVID-19 safe voluntary isolation sites in Yukon,Self-isolation,0,13172,171,34378,0,1,1
+2022-02-10,Funding for the Safe Voluntary Isolation Sites Program will be extended until 2023-03,Self-isolation,0,10381,117,35231,0,1,0
+2022-02-17,Use of Novavax's Nuvaxovid COVID-19 vaccine authorized for adults age 18 and older,Regulatory approval,0,7195,89,35918,0,1,0
+2022-02-24,Use of the Medicago COVID-19 vaccine authorized for adults age 18 to 64,Regulatory approval,0,5761,77,36332,0,1,1
+2022-02-28,Fully vaccinated travellers arriving from any country will be randomly selected for arrival testing,Restrictions,1,7919,58,36594,1,0,1
+2022-03-04,"Funding announced for free of charge access to rapid tests for provinces, territories and Indigenous communities over next 3 months",Other,0,9503,111,36909,1,0,1
+2022-03-07,Service hours adjusted at select airports as part of the phased approach to easing border measures,Restrictions,1,8455,57,37040,1,1,0
+2022-03-17,Use of Moderna Spikevax COVID-19 vaccine authorized in children age 6 to 11,Regulatory approval,0,4199,45,37074,1,1,1
+2022-03-18,Additional funding announced for safe voluntary isolation sites for temporary foreign agri-workers in Windsor-Essex,Self-isolation,0,3340,60,37134,1,1,1
+2022-04-01,"Fully vaccinated travellers no longer required to provide a pre-entry COVID-19 test result to enter Canada by air, land or water",Restrictions,1,12470,69,37666,0,1,1
+2022-04-05,New recommendations announced for a 4th dose (booster) for those age 80 and older and residents of long-term care/congregate senior living settings,Regulatory approval,0,8904,43,37772,0,1,1
+2022-04-14,Use of Evusheld COVID-19 vaccine authorized for adults and children age 12 and older,Treatment,0,18945,130,38289,1,0,0
+2022-04-21,"$379 million will be invested into long-term care in Ontario, including towards measures for retention and support of staff",Supply management,0,10515,121,38654,0,0,1
+2022-04-25,Border measures eased,Restrictions,1,3883,15,38848,1,1,0
